@@ -1,8 +1,11 @@
 const root = document.querySelector('#root');
+const textTitle = 'Dificuldade';
+const textSmall = 'Texto pequeno';
 
-function newElement(tag, content) {
-    const title = `<${tag}>${content}</${tag}>`
-    root.insertAdjacentHTML('beforeend', title);
-}
+const title = Title`
+    color: red;
+    font-size: 30px;
+    ${textTitle}
+`
 
-newElement('h1', 'Dificuldade');
+root.insertAdjacentHTML('beforeend', title);
