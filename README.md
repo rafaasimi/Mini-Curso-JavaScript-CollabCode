@@ -1,2 +1,16 @@
-# Mini-Curso-JavaScript-CollabCode
-😈 Criação de uma simples página para a seleção de dificuldades para treinar conceitos simples de JavaScript.
+<h1 align='center'>🐤 Mini Curso de JavaScript - CollabCode 🐤</h1>
+
+<p align='center'>
+<img src="https://img.shields.io/github/repo-size/rafaasimi/Mini-Curso-JavaScript-CollabCode">
+<img src="https://img.shields.io/github/last-commit/rafaasimi/Mini-Curso-JavaScript-CollabCode">
+<img src="https://img.shields.io/github/license/rafaasimi/Mini-Curso-JavaScript-CollabCode">
+</p>
+
+<p>Criação de uma simples página para a seleção de dificuldades para treinar conceitos simples de JavaScript.<p>
+<p>Aulas ministradas por <a href='https://www.twitch.tv/marcobrunodev/' target='blank'>Marco Bruno</a> como preparação para a Imersão React da Alura.</p>
+
+<h3>📝 Licença</h3>
+O projeto se encontra sob licença MIT. Para mais detalhes, acesse <a href='LICENSE'>license<a>.
+
+Criado com 💙 por [Rafael Simionato](https://github.com/rafaasimi/)
+
