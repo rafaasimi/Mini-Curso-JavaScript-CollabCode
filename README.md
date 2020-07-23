@@ -1,4 +1,4 @@
-<h1 align='center'>🐤 Mini Curso de JavaScript - CollabCode 🐤</h1>
+<h1 align='center'>⭐ Mini Curso de JavaScript - CollabCode ⭐</h1>
 
 <p align='center'>
 <img src="https://img.shields.io/github/repo-size/rafaasimi/Mini-Curso-JavaScript-CollabCode">
@@ -11,5 +11,5 @@
 
 <h3>📝 Licença</h3>
 <p>O projeto se encontra sob licença MIT. Para mais detalhes, acesse <a href='LICENSE'>license<a>.</p>
-<p>Criado com 💙 por [Rafael Simionato](https://github.com/rafaasimi/)</p>
+<p>Criado com 💙 por <a href='https://github.com/rafaasimi/' target='blank'>Rafael Simionato</a></p>
 
