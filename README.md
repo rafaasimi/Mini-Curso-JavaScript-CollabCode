@@ -10,7 +10,6 @@
 <p>Aulas ministradas por <a href='https://www.twitch.tv/marcobrunodev/' target='blank'>Marco Bruno</a> como preparação para a Imersão React da Alura.</p>
 
 <h3>📝 Licença</h3>
-O projeto se encontra sob licença MIT. Para mais detalhes, acesse <a href='LICENSE'>license<a>.
-
-Criado com 💙 por [Rafael Simionato](https://github.com/rafaasimi/)
+<p>O projeto se encontra sob licença MIT. Para mais detalhes, acesse <a href='LICENSE'>license<a>.</p>
+<p>Criado com 💙 por [Rafael Simionato](https://github.com/rafaasimi/)</p>
 
